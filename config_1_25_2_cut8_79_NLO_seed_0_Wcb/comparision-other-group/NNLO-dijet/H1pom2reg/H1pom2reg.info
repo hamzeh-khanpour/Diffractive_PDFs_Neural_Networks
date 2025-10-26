@@ -1,0 +1,17 @@
+SetDesc: "Our reggen"
+SetIndex: 00000
+Authors: Alpos auto-generated file
+Reference: [Add reference here]
+Format: lhagrid1
+DataVersion: 1
+NumMembers: 17
+Particle: 2212
+Flavors: [-6, -5, -4, -3, -2, -1, 21, 1, 2, 3, 4, 5, 6]
+OrderQCD: 0
+FlavorScheme: variable
+NumFlavors: 6
+ErrorType: hessian
+AlphaS_MZ: 0.118
+AlphaS_OrderQCD: 1
+AlphaS_Lambda4: 0.265
+AlphaS_Lambda5: 0.182
