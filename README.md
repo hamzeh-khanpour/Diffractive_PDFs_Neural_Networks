@@ -1,0 +1,2 @@
+# Diffractive_PDFs_Neural_Networks
+Neural Network determination of diffractive parton distribution functions
